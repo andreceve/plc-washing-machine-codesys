@@ -1,0 +1,8 @@
+# CODESYS user options and build artifacts
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompileinfo
+*.~u
+*.backup
